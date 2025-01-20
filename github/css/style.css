@@ -11,13 +11,13 @@ nav{
     text-align: right;
 }
 
-h1{
+h1, h2{
     font-family: "Press Start 2P", serif;
     color: #d84040;
     text-shadow: 5px 5px 0px #1d1616
 }
 
-a{
+header a{
     display: inline-flex;
     align-items: center;
     color: #1d1616;
@@ -55,4 +55,38 @@ a:before{
 #button:hover{
     background: pink;
     transform: scale(1.1);
+}
+
+#initial{
+    margin-top: 116px;
+    margin-left: 91px;
+    padding: 20px 40px;
+    display: inline-block;
+    background-color: #3A4042;
+    box-shadow: 5px 5px 2px black;
+}
+
+#initial > h2{
+    color: white;
+    margin-top: 38px;
+}
+
+#buttons_inside{
+    margin-left: 91px;
+    margin-top: 38px;
+    }
+
+#buttons_inside a{
+    display: inline-block;
+    text-decoration: none;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #1d1616;
+    background-color: #d84040;
+    height: 60px;
+    padding-left: 17px;
+    padding-right: 17px;
+    line-height: 60px;
+    box-shadow: 5px 5px 2px black;
+    margin-right: 0px;
 }
