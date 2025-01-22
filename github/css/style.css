@@ -11,11 +11,6 @@ nav{
     text-align: right;
 }
 
-h1, h2{
-    font-family: "Press Start 2P", serif;
-    color: #d84040;
-    text-shadow: 5px 5px 0px #1d1616
-}
 
 header a{
     display: inline-flex;
@@ -66,10 +61,7 @@ a:before{
     box-shadow: 5px 5px 2px black;
 }
 
-#initial > h2{
-    color: white;
-    margin-top: 38px;
-}
+
 
 #buttons_inside{
     margin-left: 91px;
