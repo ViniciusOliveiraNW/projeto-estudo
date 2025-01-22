@@ -52,16 +52,13 @@ a:before{
     transform: scale(1.1);
 }
 
-#initial{
-    margin-top: 116px;
-    margin-left: 91px;
+#box{
+
     padding: 20px 40px;
     display: inline-block;
     background-color: #3A4042;
     box-shadow: 5px 5px 2px black;
 }
-
-
 
 #buttons_inside{
     margin-left: 91px;
