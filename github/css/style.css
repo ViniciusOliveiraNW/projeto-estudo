@@ -31,35 +31,6 @@ a:before{
     height: 10px;
 }
 
-#button{
-    display: inline-block;
-    background-color: #d84040;
-    height: 60px;
-    padding-left: 17px;
-    padding-right: 17px;
-    line-height: 60px;
-    box-shadow: 5px 5px 2px black;
-    margin-right: 0px;
-}
-
-#button{
-    cursor: grabbing;
-    transition: transform 50ms linear;
-}
-
-#button:hover{
-    background: pink;
-    transform: scale(1.1);
-}
-
-#box{
-
-    padding: 20px 40px;
-    display: inline-block;
-    background-color: #3A4042;
-    box-shadow: 5px 5px 2px black;
-}
-
 #buttons_inside{
     margin-left: 91px;
     margin-top: 38px;
