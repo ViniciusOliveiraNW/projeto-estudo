@@ -1,0 +1,15 @@
+.Skills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content:center;
+    background-color:#640D14;
+    padding-top: 50px;
+    height: 740px;
+    border-bottom: 10px solid black;
+}
+
+.Skills .wrapper2{
+    display: flex;
+}
