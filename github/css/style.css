@@ -12,7 +12,7 @@ nav{
 }
 
 
-header a{
+a{
     display: inline-flex;
     align-items: center;
     color: #1d1616;
@@ -29,24 +29,4 @@ a:before{
     margin-right: 10px;
     width: 10px;
     height: 10px;
-}
-
-#buttons_inside{
-    margin-left: 91px;
-    margin-top: 38px;
-    }
-
-#buttons_inside a{
-    display: inline-block;
-    text-decoration: none;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    color: #1d1616;
-    background-color: #d84040;
-    height: 60px;
-    padding-left: 17px;
-    padding-right: 17px;
-    line-height: 60px;
-    box-shadow: 5px 5px 2px black;
-    margin-right: 0px;
 }
