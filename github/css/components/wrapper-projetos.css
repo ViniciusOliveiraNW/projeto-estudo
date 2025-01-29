@@ -1,0 +1,29 @@
+/*.wrapperprojetos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.wrapperprojetos .main-box{
+    display: flex;
+    box-shadow: 5px 5px 2px white;
+    width: 190px;
+    height: 196px;
+    align-items: center;
+}
+
+.wrapperprojetos .-boxfire{
+    background-color: blueviolet;
+}
+
+.wrapperprojetos .-boxcollab{
+    background-color: brown;
+}
+
+.wrapperprojetos .-boximg{
+    background-color: #F25A70;
+}
+
+.wrapperprojetos .icon{
+    width: 210px;
+    height: 245px;
+}
