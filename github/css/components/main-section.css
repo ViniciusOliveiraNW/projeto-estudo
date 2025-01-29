@@ -9,7 +9,11 @@
     margin-bottom: 60px;
 }
 
-.main-section.-projetos{
+.main-section.-BdBlack{
     background-color: black;
+    
+}
+
+.main-section.-bdFirst{
     border-bottom: 10px solid #d84040;
 }
