@@ -11,9 +11,14 @@
 }*/
 
 .main-form{
+    background-color: #3A4042;
     padding: 50px 40px;
     padding-left: 40px;
     padding-right: 40px;
+}
+
+.main-form .main-subtitle{
+    margin-bottom: 50px;   
 }
 
 .main-form .main-input{
@@ -23,3 +28,4 @@
 .main-form .main-input.-txarea{
     margin-bottom: 40px;
 }
+
