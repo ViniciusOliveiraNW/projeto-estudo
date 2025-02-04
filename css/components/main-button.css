@@ -22,5 +22,9 @@
 
 .main-button.-full{
     width: 100%;
+}
 
+.main-button.-full:hover{
+    background: pink;
+    transform: scale(1.01);
 }
