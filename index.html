@@ -33,6 +33,7 @@
     <link rel="stylesheet" href="css/components/main-footer.css">
     <link rel="stylesheet" href="css/components/footer-figure.css">
     <link rel="stylesheet" href="css/components/main-form.css">
+    <link rel="stylesheet" href="css/components/main-label.css">
 
     <title>Document</title>
 </head>
@@ -239,7 +240,7 @@
             <form action="form">
 
                     <div>
-                        <label class="" for="name">Nome</label>
+                        <label class="main-label" class="" for="name">Nome</label>
                         <input class="inDec" type="text" name="name" id="name" required>
                     </div>
                     <div>
@@ -261,6 +262,19 @@
     </section>
     -->
 
+    <form action="">
+        <label class="main-label" for="name">Nome</label>
+        <input type="text" name="name" id="name">
+
+        <label class="main-label" for="email">Email</label>
+        <input type="email" name="email" id="email">
+
+        <label class="main-label" for="messanger">Mensagem</label>
+        <textarea name="messanger" id="messenger"></textarea>
+
+        <input type="submit" value="Enviar">
+    </form>
+    
     <footer class="main-footer">
 
         <div class="Footer-figure">
