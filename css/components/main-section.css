@@ -18,3 +18,9 @@
     border-bottom: 10px solid #d84040;
 }
 
+.main-section.-BdGray{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3A4042;
+}

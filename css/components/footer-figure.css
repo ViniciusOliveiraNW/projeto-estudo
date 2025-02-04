@@ -1,0 +1,8 @@
+.Footer-figure{
+    display: flex;
+    margin: 28px;
+}
+
+.Footer-figure .footerFigure{
+    margin-right: 28px;
+}
